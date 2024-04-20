@@ -4,6 +4,20 @@
 
 This contract implements functionality for managing a team and their payments. It allows for adding team members, assigning tasks to them, releasing payments upon completion of tasks, and managing the team's state.
 
+## Steps to Run the Code
+
+1. **Install Dependencies**: First, install the necessary dependencies by running the following command:
+
+    ```bash
+    npm install
+    ```
+
+2. **Run the Code**: After installing the dependencies, you can run the code using the following command:
+
+    ```bash
+    npm run start
+    ```
+
 ## Contract Functions
 
 ### `addTeamMember`
